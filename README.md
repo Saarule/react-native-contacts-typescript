@@ -25,7 +25,7 @@ If someone want to make improvements on what I already did you are welcome to do
 
 ![Contacts](demo/contacts-screen-image.png =250x250)
 
-<img src="demo/contacts-screen-image.png" width="1080" height="1920" >
+<img src="demo/contacts-screen-image.png" width="540" height="960" >
 
 ![Info](demo/info-screen-image.png =300x250)
 
