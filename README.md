@@ -21,10 +21,12 @@ If someone want to make improvements on what I already did you are welcome to do
 
 ![Demo](demo/demo-gif.gif)
 
-### Photos from the app:
 
+## Photos from the app:
+### Contacts Screen
 <img src="demo/contacts-screen-image.png" width="540" height="960" >
 
+### Info Screen
 <img src="demo/info-screen-image.png" width="540" height="960" >
 
 
