@@ -21,6 +21,7 @@ Demo:
 ![Demo](https://github.com/saarule/react-native-contacts-typescript/demo/demo-gif.gif)
 
 Photos from the app:
+
 ![Contacts](https://github.com/saarule/react-native-contacts-typescript/demo/contacts-screen-image.png)
 
 ![Info](https://github.com/saarule/react-native-contacts-typescript/demo/info-screen-image.png)
