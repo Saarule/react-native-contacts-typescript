@@ -23,7 +23,7 @@ If someone want to make improvements on what I already did you are welcome to do
 
 ### Photos from the app:
 
-![Contacts](demo/contacts-screen-image.png| width=100)
+![Contacts](demo/contacts-screen-image.png | width=48)
 
-![Info](demo/info-screen-image.png| width=100)
+![Info](demo/info-screen-image.png | width=100)
 
