@@ -11,7 +11,6 @@ The random users are being generated from a 3rd party API ("https://api.randomus
 - [x] Get random user's info from "https://api.randomuser.me/"
 - [x] make use of typescript
 - [x] make the calls to the server in Asynchronous manner
-- [x] Improve design
 - [ ] write more tests and improve types
 
 This is an open source project, if someone wants to use it, go ahead and do it :blush: . 
