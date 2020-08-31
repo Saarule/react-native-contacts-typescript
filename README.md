@@ -18,11 +18,11 @@ This is an open source project, if someone wants to use it, go ahead and do it :
 If someone want to make improvements on what I already did you are welcome to do it as well :smile: .
 
 Demo:
-![Demo](https://github.com/saarule/react-native-contacts-typescript/demo/demo-gif.gif)
+![Demo](demo/demo-gif.gif)
 
 Photos from the app:
 
-![Contacts](https://github.com/saarule/react-native-contacts-typescript/demo/contacts-screen-image.png)
+![Contacts](demo/contacts-screen-image.png)
 
-![Info](https://github.com/saarule/react-native-contacts-typescript/demo/info-screen-image.png)
+![Info](demo/info-screen-image.png)
 
