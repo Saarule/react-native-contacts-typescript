@@ -14,4 +14,5 @@ The random users are being generated from a 3rd part API ("https://api.randomuse
 - [ ] write more tests and improve types
 
 This is an open source project, if someone wants to use it, go ahead and do it :blush: . 
+
 If someone want to make improvements on what I already did you are welcome to do it as well :smile: .
