@@ -24,6 +24,8 @@ If someone want to make improvements on what I already did you are welcome to do
 ### Photos from the app:
 
 ![Contacts](demo/contacts-screen-image.png =250x250)
-<img src="demo/contacts-screen-image.png" width="48">
+
+<img src="demo/contacts-screen-image.png" width="250" height="250" >
+
 ![Info](demo/info-screen-image.png =300x250)
 
