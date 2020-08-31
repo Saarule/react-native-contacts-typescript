@@ -17,7 +17,7 @@ This is an open source project, if someone wants to use it, go ahead and do it :
 
 If someone want to make improvements on what I already did you are welcome to do it as well :smile: .
 
-### Demo:
+## Demo:
 
 ![Demo](demo/demo-gif.gif)
 
